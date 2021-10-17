@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/mobile-apps-pattern-white-background-50171276.jpg");
+}
+
+#logout
+{
+	font-size: 20px; 
+    float: right;
+}
+
+#output{
+    background-color:rgb(1, 1, 255, 1);
+    padding:10px;
+    width:80%;
+    border-radius:25px;
+}
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: green;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 20%; 
+    font-size:20px;
+    background-color:blue;
+    border-width:5px;
+    border-style:ridge;
+}
